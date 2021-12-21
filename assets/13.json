@@ -1,0 +1,38 @@
+
+{
+    "siliconeCaseColors": "Marigold, Abyss Blue, Blue Jay, Chalk Pink, Clover, Midnight, Red, Pink Pomelo",
+    "leatherCaseColors": "Dark Cherry, Golden Brown, Midnight, Sequoia Green, Wisteria",
+    "accessories": "Dark Cherry Wallet, Golden Brown Wallet, Midnight Wallet, Sequoia Green Wallet, Wisteria Wallet, No Accessory, MagSafe Battery",
+
+    "iPhones": {
+        "iPhone13mini": {
+            "colors": "Blue, Red, Starlight, Pink, Midnight",
+            "defaultConfiguration": "Starlight, Red, No Accessory, Silicone",
+            "siliconeCaseAsset": "assets/cases/silicone/13mini-",
+            "leatherCaseAsset": "assets/cases/leather/13mini-"
+        }, 
+    
+        "iPhone13": {
+            "colors": "Blue, Red, Starlight, Pink, Midnight",
+            "defaultConfiguration": "Pink, Clover, No Accessory, Silicone",
+            "siliconeCaseAsset": "assets/cases/silicone/13m-",
+            "leatherCaseAsset": "assets/cases/leather/13-"
+        },
+    
+        "iPhone13Pro": {
+            "colors": "Sierra Blue, Gold, Silver, Graphite",
+            "defaultConfiguration": "Sierra Blue, Blue Jay, No Accessory, Silicone",
+            "siliconeCaseAsset": "assets/cases/silicone/13Pro-",
+            "leatherCaseAsset": "assets/cases/leather/13Pro-"
+        },
+    
+        "iPhone 13 Pro Max": {
+            "colors": "Sierra Blue, Gold, Silver, Graphite",
+            "defaultConfiguration": "Sierra Blue, Blue Jay, No Accessory, Silicone",
+            "siliconeCaseAsset": "assets/cases/silicone/13ProMax-",
+            "leatherCaseAsset": "assets/cases/leather/13ProMax-"
+        }
+    
+    }
+
+}
