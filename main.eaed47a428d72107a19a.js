@@ -10205,12 +10205,8 @@
                         directives: [Xv],
                         pipes: [rC],
                         styles: ["\
-                        @media (prefers-color-scheme: dark) {\
                         .header[_ngcontent-%COMP%] {\
-                            background-color: #111212;}\
-                        }\
-                        .header[_ngcontent-%COMP%] {\
-                            background-color: #2d91c2;\
+                            background-color: var(--header-color);\
                             width:100vw;height:70px;\
                             overflow-x:hidden }\
                         .headerlogo[_ngcontent-%COMP%]{height:69px;\
