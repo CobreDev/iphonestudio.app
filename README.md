@@ -4,5 +4,7 @@ If you are the owner of [iphonestudio.app](https://iphonestudio.app) and would l
 
 ## Road Map
 - [x] Complete range of iPhone 13 series
+- [ ] Dark Mode
+- [ ] Cases like Spigen clear case, moment case, etc
 - [ ] Add 3rd party accessories (Anker battery, Most wallet, etc)
 - [ ] Add iPhone 12
