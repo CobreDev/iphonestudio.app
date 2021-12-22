@@ -7,4 +7,5 @@ If you are the owner of [iphonestudio.app](https://iphonestudio.app) and would l
 - [ ] Dark Mode
 - [ ] Cases like Spigen clear case, moment case, etc
 - [ ] Add 3rd party accessories (Anker battery, Most wallet, etc)
+- [ ] Redesign UI
 - [ ] Add iPhone 12
