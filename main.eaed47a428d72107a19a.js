@@ -10204,7 +10204,201 @@
                         },
                         directives: [Xv],
                         pipes: [rC],
-                        styles: [".header[_ngcontent-%COMP%]{background-color:#2d91c2;width:100vw;height:70px;overflow-x:hidden}.headerlogo[_ngcontent-%COMP%]{height:69px;width:300px;margin-top:1px}h2[_ngcontent-%COMP%]{margin-top:30px;margin-bottom:5px;font-size:18px}.studio[_ngcontent-%COMP%]{width:100vw;background-color:#fff;height:100vh}.studioContainer[_ngcontent-%COMP%]{background-color:#fff;margin:auto;display:flex;width:1100px;padding-top:30px}.phoneOptionsContainer[_ngcontent-%COMP%]{display:inline-flex;justify-content:center;width:100%}.phoneOptions[_ngcontent-%COMP%]{background-color:#569fc2;width:100%;padding-top:15px;padding-bottom:5px}.phoneOption[_ngcontent-%COMP%]{margin-left:30px;height:40px;line-height:40px;width:200px;background-color:#ececec;box-shadow:0 3px 3px #11111136;z-index:150;color:#000!important}button[_ngcontent-%COMP%]{height:30px;padding-bottom:0;margin-bottom:10px;text-decoration:none;border:none;border-radius:4px;cursor:pointer;font-size:14px;line-height:14px;background-color:#ececec}select[_ngcontent-%COMP%]:hover{cursor:pointer}select[_ngcontent-%COMP%]{width:350px;border-radius:5px;padding:.75rem 1rem .75rem .5rem;appearance:none;-moz-appearance:none;-webkit-appearance:none;background-image:url(data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007CB2%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E);background-repeat:no-repeat,repeat;background-position:right .7em top 50%;background-size:.65em auto;font-size:15px;color:#000;background-color:#fff;border:1px solid black}.display[_ngcontent-%COMP%]{background-color:#000}.selections[_ngcontent-%COMP%]{width:500px;height:500px;background-color:#fff}img[_ngcontent-%COMP%], .display[_ngcontent-%COMP%], .wallet[_ngcontent-%COMP%]{height:600px;width:600px}.display.sticky[_ngcontent-%COMP%]{position:sticky;top:0}.case[_ngcontent-%COMP%], .phone[_ngcontent-%COMP%], .wallet[_ngcontent-%COMP%]{position:absolute}.iPhone13MiniWallet[_ngcontent-%COMP%]{width:742px;height:742px;margin-left:-71px;margin-top:-75px;overflow:hidden}.iPhone13Wallet[_ngcontent-%COMP%]{width:660px;height:660px;margin-left:-29px;margin-top:-30px}.iPhone13ProMaxWallet[_ngcontent-%COMP%]{width:600px;height:600px;margin-left:-1px;margin-top:2px}.iPhoneColor[_ngcontent-%COMP%], .caseColor[_ngcontent-%COMP%], .walletColor[_ngcontent-%COMP%]{display:inline-flex;padding-right:10px}.dropdownContainer[_ngcontent-%COMP%]{justify-content:left;position:relative;display:block;flex-wrap:wrap}@media only screen and (max-width: 1100px){.studioContainer[_ngcontent-%COMP%]{width:100vw;display:block}.phoneOptionsContainer[_ngcontent-%COMP%]{width:90%;margin-left:5%}.phoneOption[_ngcontent-%COMP%]{margin-right:10px;margin-left:10px;width:170px}.display[_ngcontent-%COMP%]{width:100vw;height:500px;background-color:#fff;margin:0 auto;z-index:100;position:relative;display:flex;justify-content:center}.image[_ngcontent-%COMP%], img[_ngcontent-%COMP%]{width:500px;height:500px}.image[_ngcontent-%COMP%]{background-color:#000}.selections[_ngcontent-%COMP%]{width:100vw;z-index:80;position:relative;background-color:#f8f8f8;height:100%;padding-bottom:40px}.selectionsContainer[_ngcontent-%COMP%]{padding-top:10px;z-index:-100;width:100vw;display:flex;align-items:center;flex-direction:column;justify-content:center}.dropdownContainer[_ngcontent-%COMP%]{margin-bottom:-10px}select[_ngcontent-%COMP%]{width:540px;margin-top:2px}.active[_ngcontent-%COMP%]{background-color:#75aac2}.iPhone13MiniWallet[_ngcontent-%COMP%]{width:621px;height:621px;margin-left:-60px;margin-top:-65px}.iPhone13Wallet[_ngcontent-%COMP%]{width:560px;height:560px;margin-left:-29px;margin-top:-23px}.iPhone13ProMaxWallet[_ngcontent-%COMP%]{width:500px;height:500px;margin-left:0;margin-top:0}.studio[_ngcontent-%COMP%]{background-color:#f8f8f8}}@media only screen and (max-width: 680px){.phoneOptionsContainer[_ngcontent-%COMP%]{width:90%;display:flex;flex-wrap:wrap;justify-content:center;margin-left:5%}.studio[_ngcontent-%COMP%]{overflow-x:hidden}.phoneOption[_ngcontent-%COMP%]{width:150px!important;height:35px!important;line-height:35px!important}.dropdownContainer[_ngcontent-%COMP%]{justify-content:center;width:100vw;align-items:center;margin-bottom:10px}.display[_ngcontent-%COMP%]{height:375px;width:100vw;position:relative;z-index:100;display:flex;justify-content:center}.image[_ngcontent-%COMP%], img[_ngcontent-%COMP%]{width:375px;height:375px}.display.sticky[_ngcontent-%COMP%]{position:sticky;top:0}.studioContainer[_ngcontent-%COMP%]{margin-left:0}.selections[_ngcontent-%COMP%]{width:100vw;margin:0;z-index:80;padding-bottom:30px}.selectionsContainer[_ngcontent-%COMP%]{background-color:#f8f8f8;margin:0;width:100vw;justify-content:center}.selections[_ngcontent-%COMP%]   h2[_ngcontent-%COMP%]{margin-left:5%}.iPhone13MiniWallet[_ngcontent-%COMP%]{width:465px;height:465px;margin-top:-47px;margin-left:-45px}.iPhone13Wallet[_ngcontent-%COMP%]{width:415px;height:415px;margin-top:-18px;margin-left:-20px}.iPhone13ProMaxWallet[_ngcontent-%COMP%]{width:370px;height:370px;margin-top:3px;margin-left:2px}h2[_ngcontent-%COMP%]{margin-top:5px;font-size:16px;margin-left:5vw}select[_ngcontent-%COMP%]{width:90vw;padding:.6em 2em .6em 1em;margin-top:2px;margin-left:5vw}}"]
+                        styles: ["\
+                        @media (prefers-color-scheme: dark) {\
+                        .header[_ngcontent-%COMP%] {\
+                            background-color: #111212;}\
+                        }\
+                        .header[_ngcontent-%COMP%] {\
+                            background-color: #2d91c2;\
+                            width:100vw;height:70px;\
+                            overflow-x:hidden }\
+                        .headerlogo[_ngcontent-%COMP%]{height:69px;\
+                            width:300px;\
+                            margin-top:1px }\
+                        h2[_ngcontent-%COMP%]{margin-top:30px;\
+                            margin-bottom:5px;\
+                            font-size:18px }\
+                        .studio[_ngcontent-%COMP%]{width:100vw;\
+                            background-color:#fff;\
+                            height:100vh}\
+                        .studioContainer[_ngcontent-%COMP%]{background-color:#fff;\
+                            margin:auto;\
+                            display:flex;\
+                            width:1100px;\
+                            padding-top:30px}\
+                        .phoneOptionsContainer[_ngcontent-%COMP%]{display:inline-flex;\
+                            justify-content:center;\
+                            width:100%}\
+                        .phoneOptions[_ngcontent-%COMP%]{background-color:#569fc2;\
+                            width:100%;\
+                            padding-top:15px;\
+                            padding-bottom:5px}\
+                        .phoneOption[_ngcontent-%COMP%]{\
+                            margin-left:30px;\
+                            height:40px;\
+                            line-height:40px;\
+                            width:200px;\
+                            background-color:#ececec;\
+                            box-shadow:0 3px 3px #11111136;\
+                            z-index:150;\
+                            color:#000!important}\
+                            button[_ngcontent-%COMP%]{height:30px;\
+                            padding-bottom:0;\
+                            margin-bottom:10px;\
+                            text-decoration:none;\
+                            border:none;\
+                            border-radius:4px;\
+                            cursor:pointer;\
+                            font-size:14px;\
+                            line-height:14px;\
+                            background-color:#ececec}\
+                            select[_ngcontent-%COMP%]:hover{cursor:pointer}\
+                            select[_ngcontent-%COMP%]{width:350px;\
+                            border-radius:5px;\
+                            padding:.75rem 1rem .75rem .5rem;\
+                            appearance:none;\
+                            -moz-appearance:none;\
+                            -webkit-appearance:none;\
+                            background-image:url(data:image/svg+xml;\
+                            charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007CB2%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E);\
+                            background-repeat:no-repeat,repeat;\
+                            background-position:right .7em top 50%;\
+                            background-size:.65em auto;\
+                            font-size:15px;\
+                            color:#000;\
+                            background-color:#fff;\
+                            border:1px solid black}\
+                        .display[_ngcontent-%COMP%]{background-color:#000}\
+                        .selections[_ngcontent-%COMP%]{width:500px;\
+                            height:500px;\
+                            background-color:#fff}\
+                            img[_ngcontent-%COMP%], .display[_ngcontent-%COMP%], .wallet[_ngcontent-%COMP%]{height:600px;\
+                            width:600px}\
+                        .display.sticky[_ngcontent-%COMP%]{position:sticky;\
+                            top:0}\
+                        .case[_ngcontent-%COMP%], .phone[_ngcontent-%COMP%], .wallet[_ngcontent-%COMP%]{position:absolute}\
+                        .iPhone13MiniWallet[_ngcontent-%COMP%]{width:742px;\
+                            height:742px;\
+                            margin-left:-71px;\
+                            margin-top:-75px;\
+                            overflow:hidden}\
+                        .iPhone13Wallet[_ngcontent-%COMP%]{width:660px;\
+                            height:660px;\
+                            margin-left:-29px;\
+                                    margin-top:-30px}\
+                                    .iPhone13ProMaxWallet[_ngcontent-%COMP%]{width:600px;\
+                                    height:600px;\
+                                    margin-left:-1px;\
+                                    margin-top:2px}\
+                                    .iPhoneColor[_ngcontent-%COMP%], .caseColor[_ngcontent-%COMP%], .walletColor[_ngcontent-%COMP%]{display:inline-flex;\
+                                    padding-right:10px}\
+                                    .dropdownContainer[_ngcontent-%COMP%]{justify-content:left;\
+                                    position:relative;\
+                                    display:block;\
+                                    flex-wrap:wrap}\
+                                    @media only screen and (max-width: 1100px){.studioContainer[_ngcontent-%COMP%]{width:100vw;\
+                                    display:block}\
+                                    .phoneOptionsContainer[_ngcontent-%COMP%]{width:90%;\
+                                    margin-left:5%}\
+                                    .phoneOption[_ngcontent-%COMP%]{margin-right:10px;\
+                                    margin-left:10px;\
+                                    width:170px}\
+                                    .display[_ngcontent-%COMP%]{width:100vw;\
+                                    height:500px;\
+                                    background-color:#fff;\
+                                    margin:0 auto;\
+                                    z-index:100;\
+                                    position:relative;\
+                                    display:flex;\
+                                    justify-content:center}\
+                                    .image[_ngcontent-%COMP%], img[_ngcontent-%COMP%]{width:500px;\
+                                    height:500px}\
+                                    .image[_ngcontent-%COMP%]{background-color:#000}\
+                                    .selections[_ngcontent-%COMP%]{width:100vw;\
+                                    z-index:80;\
+                                    position:relative;\
+                                    background-color:#f8f8f8;\
+                                    height:100%;\
+                                    padding-bottom:40px}\
+                                    .selectionsContainer[_ngcontent-%COMP%]{padding-top:10px;\
+                                    z-index:-100;\
+                                    width:100vw;\
+                                    display:flex;\
+                                    align-items:center;\
+                                    flex-direction:column;\
+                                    justify-content:center}\
+                                    .dropdownContainer[_ngcontent-%COMP%]{margin-bottom:-10px}\
+                                    select[_ngcontent-%COMP%]{width:540px;\
+                                    margin-top:2px}\
+                                    .active[_ngcontent-%COMP%]{background-color:#75aac2}\
+                                    .iPhone13MiniWallet[_ngcontent-%COMP%]{width:621px;\
+                                    height:621px;\
+                                    margin-left:-60px;\
+                                    margin-top:-65px}\
+                                    .iPhone13Wallet[_ngcontent-%COMP%]{width:560px;\
+                                    height:560px;\
+                                    margin-left:-29px;\
+                                    margin-top:-23px}\
+                                    .iPhone13ProMaxWallet[_ngcontent-%COMP%]{width:500px;\
+                                    height:500px;\
+                                    margin-left:0;\
+                                    margin-top:0}\
+                                    .studio[_ngcontent-%COMP%]{background-color:#f8f8f8}\
+                                }\
+                                    @media only screen and (max-width: 680px){.phoneOptionsContainer[_ngcontent-%COMP%]{width:90%;\
+                                    display:flex;\
+                                    flex-wrap:wrap;\
+                                    justify-content:center;\
+                                    margin-left:5%}\
+                                    .studio[_ngcontent-%COMP%]{overflow-x:hidden}\
+                                    .phoneOption[_ngcontent-%COMP%]{width:150px!important;\
+                                    height:35px!important;\
+                                    line-height:35px!important}\
+                                    .dropdownContainer[_ngcontent-%COMP%]{justify-content:center;\
+                                    width:100vw;\
+                                    align-items:center;\
+                                    margin-bottom:10px}\
+                                    .display[_ngcontent-%COMP%]{height:375px;\
+                                    width:100vw;\
+                                    position:relative;\
+                                    z-index:100;\
+                                    display:flex;\
+                                    justify-content:center}\
+                                    .image[_ngcontent-%COMP%], img[_ngcontent-%COMP%]{width:375px;\
+                                    height:375px}\
+                                    .display.sticky[_ngcontent-%COMP%]{position:sticky;\
+                                    top:0}\
+                                    .studioContainer[_ngcontent-%COMP%]{margin-left:0}\
+                                    .selections[_ngcontent-%COMP%]{width:100vw;\
+                                    margin:0;\
+                                    z-index:80;\
+                                    padding-bottom:30px}\
+                                    .selectionsContainer[_ngcontent-%COMP%]{background-color:#f8f8f8;\
+                                    margin:0;\
+                                    width:100vw;\
+                                    justify-content:center}\
+                                    .selections[_ngcontent-%COMP%]   h2[_ngcontent-%COMP%]{margin-left:5%}\
+                                    .iPhone13MiniWallet[_ngcontent-%COMP%]{width:465px;\
+                                    height:465px;\
+                                    margin-top:-47px;\
+                                    margin-left:-45px}\
+                                    .iPhone13Wallet[_ngcontent-%COMP%]{width:415px;\
+                                    height:415px;\
+                                    margin-top:-18px;\
+                                    margin-left:-20px}\
+                                    .iPhone13ProMaxWallet[_ngcontent-%COMP%]{width:370px;\
+                                    height:370px;\
+                                    margin-top:3px;\
+                                    margin-left:2px}\
+                                    h2[_ngcontent-%COMP%]{margin-top:5px;\
+                                    font-size:16px;\
+                                    margin-left:5vw}\
+                                    select[_ngcontent-%COMP%]{width:90vw;\
+                                    padding:.6em 2em .6em 1em;\
+                                    margin-top:2px;\
+                                    margin-left:5vw}\
+                                }"]
                     }), t
                 })(),
                 MN = (() => {
